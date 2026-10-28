@@ -1,0 +1,169 @@
+[
+  {
+    "intent": "deals",
+    "keywords": [
+      "deal",
+      "deals",
+      "discount",
+      "offer",
+      "offers",
+      "combo",
+      "combos",
+      "family deal",
+      "special offer"
+    ],
+    "reply": "🔥 DESI BITES SPECIAL DEALS\n\n1. Student Deal — Rs. 299\n   1 Zinger Burger + Fries + Drink\n\n2. Burger Combo — Rs. 499\n   2 Chicken Burgers + 2 Drinks\n\n3. Family Deal — Rs. 1,499\n   2 Zinger Burgers + 2 Chicken Burgers + Large Fries + 4 Drinks\n\n4. Pizza Deal — Rs. 999\n   1 Large Pizza + 2 Drinks\n\nThese are demo prices for this chatbot project. Please confirm current prices when ordering!"
+  },
+  {
+    "intent": "menu",
+    "keywords": [
+      "menu",
+      "price",
+      "prices",
+      "burger",
+      "burgers",
+      "pizza",
+      "pizzas",
+      "fries",
+      "biryani",
+      "roll",
+      "rolls",
+      "food",
+      "items",
+      "chicken",
+      "drink",
+      "drinks"
+    ],
+    "reply": "🍔 DESI BITES MENU\n\n🍔 BURGERS\nChicken Burger — Rs. 250\nZinger Burger — Rs. 350\nBeef Burger — Rs. 400\n\n🍕 PIZZA\nSmall Pizza — Rs. 450\nMedium Pizza — Rs. 750\nLarge Pizza — Rs. 1,000\n\n🍗 DESI FOOD\nChicken Biryani — Rs. 250\nChicken Roll — Rs. 180\nChicken Paratha Roll — Rs. 220\n\n🍟 SIDES & DRINKS\nRegular Fries — Rs. 150\nLarge Fries — Rs. 250\nCold Drink — Rs. 100\n\nThese are demo prices for this chatbot project. Please confirm current prices when ordering!"
+  },
+  {
+    "intent": "delivery",
+    "keywords": [
+      "delivery",
+      "deliver",
+      "delivered",
+      "home delivery",
+      "delivery charges",
+      "shipping",
+      "distance",
+      "area"
+    ],
+    "reply": "🛵 DELIVERY INFORMATION\n\nDesi Bites offers demo home delivery in Sargodha.\n\nDelivery charges: Rs. 100 (demo price).\nEstimated delivery time: 30–60 minutes, depending on your location and order.\n\nPlease call 0300-1234567 to confirm delivery availability and charges for your area."
+  },
+  {
+    "intent": "timings",
+    "keywords": [
+      "timing",
+      "timings",
+      "time",
+      "hours",
+      "open",
+      "close",
+      "closing",
+      "opening",
+      "schedule",
+      "when"
+    ],
+    "reply": "🕒 DESI BITES OPENING HOURS\n\nMonday–Sunday: 12:00 PM – 11:00 PM\n\nThese are demo timings. Please call 0300-1234567 to confirm today's opening hours before visiting."
+  },
+  {
+    "intent": "location",
+    "keywords": [
+      "location",
+      "address",
+      "where",
+      "located",
+      "direction",
+      "directions",
+      "map",
+      "place",
+      "reach"
+    ],
+    "reply": "📍 DESI BITES LOCATION\n\nDemo Address:\nMain University Road, near Sargodha University, Sargodha, Punjab, Pakistan.\n\nFor directions, please call 0300-1234567.\n\nNote: This is a demo address, not a verified restaurant location."
+  },
+  {
+    "intent": "payment",
+    "keywords": [
+      "payment",
+      "pay",
+      "cash",
+      "card",
+      "online",
+      "bank",
+      "jazzcash",
+      "easypaisa",
+      "method",
+      "methods"
+    ],
+    "reply": "💳 PAYMENT INFORMATION\n\nDemo payment options:\n• Cash on Delivery (COD)\n• Cash at the restaurant\n• JazzCash / Easypaisa (availability must be confirmed)\n\nPlease call 0300-1234567 to confirm accepted payment methods before placing your order."
+  },
+  {
+    "intent": "ordering",
+    "keywords": [
+      "order",
+      "ordering",
+      "book",
+      "booking",
+      "buy",
+      "purchase",
+      "place an order",
+      "how to order",
+      "want food"
+    ],
+    "reply": "🛍️ HOW TO ORDER\n\n1. Check our menu and choose your items.\n2. Note the item names and quantities.\n3. Call our demo contact number: 0300-1234567.\n4. Share your delivery address and phone number with the restaurant when ordering.\n5. Confirm the total price and delivery charges.\n\nThis chatbot does not place real orders. The phone number is for demonstration only."
+  },
+  {
+    "intent": "contact",
+    "keywords": [
+      "contact",
+      "phone",
+      "number",
+      "call",
+      "mobile",
+      "telephone",
+      "whatsapp",
+      "reach you"
+    ],
+    "reply": "📞 CONTACT DESI BITES\n\nDemo Phone: 0300-1234567\nLocation: Sargodha, Punjab, Pakistan.\n\nPlease note that this is a demo contact number. It is not verified as a real restaurant number."
+  },
+  {
+    "intent": "thanks",
+    "keywords": [
+      "thanks",
+      "thank",
+      "thank you",
+      "thankyou",
+      "thx",
+      "appreciate"
+    ],
+    "reply": "😊 You're most welcome!\n\nThank you for visiting Desi Bites. Is there anything else I can help you with?"
+  },
+  {
+    "intent": "goodbye",
+    "keywords": [
+      "bye",
+      "goodbye",
+      "good bye",
+      "see you",
+      "later",
+      "take care",
+      "goodnight"
+    ],
+    "reply": "👋 Thank you for chatting with Desi Bites!\n\nHave a wonderful day. We hope to serve you soon!"
+  },
+  {
+    "intent": "greeting",
+    "keywords": [
+      "hello",
+      "hi",
+      "hey",
+      "salam",
+      "assalamualaikum",
+      "aoa",
+      "good morning",
+      "good evening",
+      "good afternoon"
+    ],
+    "reply": "👋 Hello! Welcome to Desi Bites!\n\nI'm your restaurant assistant. I can help you with our menu, deals, delivery, timings, location and payment options.\n\nWhat would you like to know?"
+  }
+]
